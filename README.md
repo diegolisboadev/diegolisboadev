@@ -1,20 +1,25 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador diegolisboadev">
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+<p align="left">
+  Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> e um eterno apaixonado por tecnologia e suas múltiplas
+  formas.<br>
+  Atualmente estou me aventurando e aprofundando no ecossistema <strong>Python</strong><br>
+  Desmitificando a ferramenta <strong>Selenium</strong><br>
+  Conhecendo o universo de <strong>Machine Learning, Data Science e Computer Vision</strong><br>
+  Estudante e com alguns projetos em <strong>#3776AB PHP/Laravel e JavaScript<strong><br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  💻 Linguagens: <strong>Python, PHP, Javascript.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>VsCode, Docker, OS Linux.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso tenha alguma curiosidade sobre algum projeto meu ou participar de um projeto comigo,<br>
+  não hesite em me enviar uma mensagem: ⤵️
 </p>
 
 <p align="left">
