@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador diegolisboadev">
 
 <p align="left">
- <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" alt="Python"> Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> 
+  Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> 
   e um eterno apaixonado por tecnologia e suas múltiplas formas.<br>
-  Atualmente estou desenvolvendo projetos em <strong>Python</strong>
+  Atualmente estou desenvolvendo projetos em <strong><img height="15" width="15" src="https://simpleicons.org/icons/python.svg" alt="Python" style="color: #3776AB;">Python</strong>
   usando <strong>Selenium, WebScrapping</strong>
   e <strong>Machine Learning, Data Science e Computer Vision com Python</strong><br>
   E com alguns projetos em <strong>PHP/Laravel e JavaScript<strong><br>
