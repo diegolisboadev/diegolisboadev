@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador diegolisboadev">
 
 <p align="left">
-  Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> 
+  <img height="25" width="25" src="https://devicon.dev/devicon.git/icons/codepen/codepen-plain.svg" alt="Code"> Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> 
   e um eterno apaixonado por tecnologia e suas múltiplas formas.<br>
-  Atualmente estou desenvolvendo projetos em <img height="15" width="15" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="Python"> <strong>Python</strong>
+  Atualmente estou desenvolvendo projetos em <strong>Python</strong>
   usando <strong>Selenium, WebScrapping</strong>
   e <strong>Machine Learning, Data Science e Computer Vision com Python</strong><br>
-  E com alguns projetos em <strong>PHP/Laravel e JavaScript<strong><br>
+  Além de projetos em <strong>PHP/Laravel e JavaScript<strong><br>
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Python, PHP, Javascript.</strong>
+  💻 Linguagens: <img height="20" width="20" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="Python"><strong>Python, PHP, Javascript.</strong>
 </p>
 
 <p align="left">
