@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador diegolisboadev">
 
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="">
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <p align="left">
   Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> 
