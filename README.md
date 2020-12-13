@@ -3,8 +3,8 @@
 <p align="left">
   Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> e um eterno apaixonado por tecnologia e suas múltiplas
   formas.<br>
-  Atualmente estou desenvolvendo projetos em <strong>Python</strong><br>
-  usando <strong>Selenium, WebScrapping</strong><br>
+  Atualmente estou desenvolvendo projetos em <strong>Python</strong>
+  usando <strong>Selenium, WebScrapping</strong>
   e <strong>Machine Learning, Data Science e Computer Vision com Python</strong><br>
   E com alguns projetos em <strong>PHP/Laravel e JavaScript<strong><br>
 </p>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  💌 Caso tenha alguma curiosidade sobre algum projeto meu ou participar de um projeto comigo,<br>
+  💌 Caso tenha alguma curiosidade sobre algum projeto meu ou participar de um projeto comigo,
   não hesite em me enviar uma mensagem: ⤵️
 </p>
 
