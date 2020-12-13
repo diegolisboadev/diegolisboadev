@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador diegolisboadev">
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador diegolisboadev">-->
 
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" min-width="100px" max-width="100px" width="100px" align="right" alt="Python">
+<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" min-width="100px" max-width="100px" width="100px" align="right" alt="PHP">
 
 <p align="left">
   Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> 
