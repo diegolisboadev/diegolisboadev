@@ -28,12 +28,12 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Hotmail">
-  <img src="https://img.shields.io/badge/-Hotmail-FF0000?style=flat-square&labelColor=FF0000&logo=hotmail&logoColor=white&link=diego.lisboa.pires@hotmail.com" /></a>
+  <a href="diego.lisboa.pires@hotmail.com" alt="Hotmail">
+  <img src="https://img.shields.io/badge/-Hotmail-0067B8?style=flat-square&labelColor=0067B8&logo=hotmail&logoColor=white&link=diego.lisboa.pires@hotmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/diego-lisboa-pires/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-lisboa-pires/" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/diego.pirez_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/diego.pirez_/"/></a>
 </p>  
