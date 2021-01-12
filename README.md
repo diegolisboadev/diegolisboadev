@@ -3,7 +3,7 @@
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="PHP">
 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="JS">-->
 
-<img src="https://www.kindpng.com/picc/m/4-42757_full-stack-developers-developer-png-transparent-png.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
+<img src="https://clipground.com/images/computer-programming-png-5.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 <p align="left">
   Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> 
