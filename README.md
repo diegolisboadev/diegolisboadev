@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, Docker, OS Linux.</strong>
+  💼 Ferramentas: <strong>VsCode, Docker, OS Linux, Windows.</strong>
 </p>
 
 <p align="left">
