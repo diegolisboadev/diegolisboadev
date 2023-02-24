@@ -6,12 +6,10 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 <p align="left">
-  Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor Web e Desktop</strong> 
+  Olá meu nome é Diego Lisboa, sou 💻 <strong>Desenvolvedor de Software</strong> 
   e um eterno apaixonado por tecnologia e suas múltiplas formas.<br>
-  Atualmente estou desenvolvendo projetos em <strong>Python</strong>
-  usando <strong>Selenium, WebScrapping</strong>
-  e <strong>Machine Learning, Data Science e Computer Vision com Python</strong><br>
-  Além de projetos em <strong>PHP/Laravel e JavaScript<strong><br>
+  Atualmente estou desenvolvendo projetos para plataformas múltiplas plataformas,
+  utilizando métodos modernos de desenvolvimento de software.
 </p>
 
 <p align="left">
